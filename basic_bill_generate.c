@@ -11,6 +11,7 @@ int main()
     scanf("%f",&Q1);
     printf("ENTER PRICE OF 1ST ITEM:");
     scanf("%f",&R1);
+
     //FOR 2ND ITEM
     printf("ENTER ITEM TWO:");
     scanf("%49s",&P2);
